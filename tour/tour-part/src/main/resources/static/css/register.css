@@ -90,7 +90,7 @@ body {
     text-align:center;
     background-repeat: no-repeat;
     font-size: 20px;
-    color:#ffb611;
+    color:#ffcc00;
     line-height: 70px;
 }
 input, button, select, textarea {
@@ -105,7 +105,8 @@ input, button, select, textarea {
     font-size: 14px;
 }
 .attachment a, .attachment a:hover {
-    color: #ff9a00;
+    /*color: #ff9a00;*/
+    color: #009688;
 }
 .foreign-tel {
     position: relative;
@@ -171,8 +172,8 @@ input, button, select, textarea {
     margin-right: 22px;
 }
 .m-act-btn {
-    color: #333333;
-    background: #ffc000;
+    color: #ffffff;
+    background: #339999;
     cursor: pointer;
     display: inline-block;
     width: 113px;
@@ -231,17 +232,17 @@ del, ins, u, s, a, a:hover {
     line-height: 35px;
     /* display: block; */
     cursor: pointer;
-    text-indent: center;
+    /*text-indent: center;*/
     height: 35px;
     width: 224px;
-    background: #ff9a00;
+    background: #339999;
     color: #fff;
     font-weight: bold;
     font-size: 16px;
     border: 0;
 }
 .attachment a, .attachment a:hover {
-    color: #ff9a00;
+    color: #ffcc00;
 }
 .main {
     margin: 0 auto;
